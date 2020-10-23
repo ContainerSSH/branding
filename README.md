@@ -19,3 +19,12 @@ Pick your color:
 <tr><td><img src="logo-round-green.svg" alt="The ContainerSSH logo with a green border" height="128" width="128" /></td><td>[ <a href="logo-round-green.svg" download>SVG</a> ] [ <a href="logo-round-green.png" download>PNG</a> ]</td></tr>
 <tr><td><img src="logo-round-blue.svg" alt="The ContainerSSH logo with a blue border" height="128" width="128" /></td><td>[ <a href="logo-round-blue.svg" download>SVG</a> ] [ <a href="logo-round-blue.png" download>PNG</a> ]</td></tr>
 </table>
+
+## Smiley logos
+
+<table>
+<tr><td><img src="logo-smiley-red.svg" alt="The ContainerSSH logo with a red border" height="128" width="128" /></td><td>[ <a href="logo-smiley-red.svg" download>SVG</a> ] [ <a href="logo-smiley-red.png" download>PNG</a> ]</td></tr>
+<tr><td><img src="logo-smiley-orange.svg" alt="The ContainerSSH logo with an orange border" height="128" width="128" /></td><td>[ <a href="logo-smiley-orange.svg" download>SVG</a> ] [ <a href="logo-smiley-orange.png" download>PNG</a> ]</td></tr>
+<tr><td><img src="logo-smiley-green.svg" alt="The ContainerSSH logo with a green border" height="128" width="128" /></td><td>[ <a href="logo-smiley-green.svg" download>SVG</a> ] [ <a href="logo-smiley-green.png" download>PNG</a> ]</td></tr>
+<tr><td><img src="logo-smiley-blue.svg" alt="The ContainerSSH logo with a blue border" height="128" width="128" /></td><td>[ <a href="logo-smiley-blue.svg" download>SVG</a> ] [ <a href="logo-smiley-blue.png" download>PNG</a> ]</td></tr>
+</table>
