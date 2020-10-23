@@ -1,4 +1,4 @@
-# ContainerSSH Branding Assets
+# ContainerSSH Brand Assets
 
 Pick your color:
 
