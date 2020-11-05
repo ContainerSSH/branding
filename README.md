@@ -3,7 +3,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <h1 align="center">ContainerSSH Brand Assets</h1>
 
-Pick your color:
+Here are the logos you can use to represent ContainerSSH
 
 ## Square logos
 
