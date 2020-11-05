@@ -1,4 +1,7 @@
-# ContainerSSH Brand Assets
+[![ContainerSSH - Launch Containers on Demand](https://containerssh.github.io/images/logo-for-embedding.svg)](https://containerssh.github.io/)
+
+<!--suppress HtmlDeprecatedAttribute -->
+<h1 align="center">ContainerSSH Brand Assets</h1>
 
 Pick your color:
 
