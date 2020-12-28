@@ -3,7 +3,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <h1 align="center">ContainerSSH Brand Assets</h1>
 
-Here are the logos you can use to represent ContainerSSH.
+Here are the logos you can use to represent ContainerSSH. Please use them in accordance with the [ContainerSSH Brand License](LICENSE.md).
 
 ## Square logos
 
