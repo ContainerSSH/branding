@@ -31,3 +31,21 @@ Here are the logos you can use to represent ContainerSSH. Please use them in acc
 <tr><td><img src="logo-smiley-green.svg" alt="The ContainerSSH logo with a green border" height="128" width="128" /></td><td>[ <a href="logo-smiley-green.svg" download>SVG</a> ] [ <a href="logo-smiley-green.png" download>PNG</a> ]</td></tr>
 <tr><td><img src="logo-smiley-blue.svg" alt="The ContainerSSH logo with a blue border" height="128" width="128" /></td><td>[ <a href="logo-smiley-blue.svg" download>SVG</a> ] [ <a href="logo-smiley-blue.png" download>PNG</a> ]</td></tr>
 </table>
+
+## Shield logos
+
+<table>
+<tr><td><img src="logo-shield-red.svg" alt="The shield version of ContainerSSH logo with a red border" height="128" width="128" /></td><td>[ <a href="logo-shield-red.svg" download>SVG</a> ] [ <a href="logo-shield-red.png" download>PNG</a> ]</td></tr>
+<tr><td><img src="logo-shield-orange.svg" alt="The shield version of ContainerSSH logo with an orange border" height="128" width="128" /></td><td>[ <a href="logo-shield-orange.svg" download>SVG</a> ] [ <a href="logo-shield-orange.png" download>PNG</a> ]</td></tr>
+<tr><td><img src="logo-shield-green.svg" alt="The shield version of ContainerSSH logo with a green border" height="128" width="128" /></td><td>[ <a href="logo-shield-green.svg" download>SVG</a> ] [ <a href="logo-shield-green.png" download>PNG</a> ]</td></tr>
+<tr><td><img src="logo-shield-blue.svg" alt="The shield version of ContainerSSH logo with a blue border" height="128" width="128" /></td><td>[ <a href="logo-shield-blue.svg" download>SVG</a> ] [ <a href="logo-shield-blue.png" download>PNG</a> ]</td></tr>
+</table>
+
+## Color Palette
+
+<table>
+<tr><td>Red</td><td><code>#FF0000</code></td></tr>
+<tr><td>Orange</td><td><code>#FC8300</code></td></tr>
+<tr><td>Green</td><td><code>#00C900</code></td></tr>
+<tr><td>Blue</td><td><code>#0600FF</code></td></tr>
+</table>
