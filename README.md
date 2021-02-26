@@ -5,7 +5,15 @@
 
 Here are the logos you can use to represent ContainerSSH. Please use them in accordance with the [ContainerSSH Brand License](LICENSE.md).
 
-You can download <a href="https://github.com/ContainerSSH/branding/archive/main.zip" download="containerssh-branding.zip">all assets in this ZIP file</a>.
+You can download <a href="https://github.com/ContainerSSH/branding/archive/main.zip" download="containerssh-branding.zip">all assets in this ZIP file</a> or you can download them individually:
+
+- [Square logos](#square-logos)
+- [Round logos](#round-logos)
+- [Smiley logos](#smiley-logos)
+- [Wide logos](#wide-logos)
+- [Wide logos (dark background)](#wide-logos-dark-background)
+- [Open Graph (Social)](#open-graph-social)
+- [Color palette](#color-palette)
 
 ## Square logos
 
