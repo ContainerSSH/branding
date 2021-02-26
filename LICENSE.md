@@ -1,6 +1,6 @@
 # ContainerSSH Assets and Marks
 
-The ContainerSSH name and the ContainerSSH logos have been created by Janos Pasztor, Sanja Bonic, and Bence Santha. To keep things fair we ask you use the name and logos in keeping with the following rules:
+The ContainerSSH name and the ContainerSSH logos have been created by Janos Pasztor and Sanja Bonic. Graphic assets have been created by Bence Santha. To keep things fair we ask you use the name and logos in keeping with the following rules:
 
 1. Use the ContainerSSH name and logos only to represent ContainerSSH distributed through the website [containerssh.io](https://containerssh.io). Do not use the ContainerSSH logo to represent separately maintained forks or other software. (Don't worry, you may use the logo on forks intended for submitting pull requests to ContainerSSH.)
 2. Do not use the ContainerSSH name and logos as part of your own logo, trademark, or unregistered marks.
