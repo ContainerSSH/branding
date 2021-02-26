@@ -5,7 +5,7 @@
 
 Here are the logos you can use to represent ContainerSSH. Please use them in accordance with the [ContainerSSH Brand License](LICENSE.md).
 
-You can download [all assets in this ZIP file](containerssh-brand.zip).
+You can download [all assets in this ZIP file](https://github.com/ContainerSSH/branding/raw/main/containerssh-brand.zip).
 
 ## Square logos
 
