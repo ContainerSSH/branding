@@ -10,6 +10,8 @@ You can download <a href="https://github.com/ContainerSSH/branding/archive/main.
 - [Square logos](#square-logos)
 - [Round logos](#round-logos)
 - [Smiley logos](#smiley-logos)
+- [Shield logos](#shield-logos)
+- [Isometric version of shield logos](#isometric-version-of-shield-logos)
 - [Wide logos](#wide-logos)
 - [Wide logos (dark background)](#wide-logos-dark-background)
 - [Open Graph (Social)](#open-graph-social)
@@ -49,6 +51,43 @@ You can download <a href="https://github.com/ContainerSSH/branding/archive/main.
 <tr><td><img src="logo-shield-orange.svg" alt="The shield version of ContainerSSH logo with an orange border" height="128" width="128" /></td><td>[ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-orange.svg" download>SVG</a> ] [ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-orange.png" download>PNG</a> ]</td></tr>
 <tr><td><img src="logo-shield-green.svg" alt="The shield version of ContainerSSH logo with a green border" height="128" width="128" /></td><td>[ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-green.svg" download>SVG</a> ] [ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-green.png" download>PNG</a> ]</td></tr>
 <tr><td><img src="logo-shield-blue.svg" alt="The shield version of ContainerSSH logo with a blue border" height="128" width="128" /></td><td>[ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-blue.svg" download>SVG</a> ] [ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-blue.png" download>PNG</a> ]</td></tr>
+</table>
+
+## Isometric version of shield logos
+
+<table>
+<tr><td><center><img src="logo-shield-isometric-red-left.svg" alt="The isometric shield version of ContainerSSH logo (left)" height="128" width="128"></center></td></td>
+<td><center><img src="logo-shield-isometric-red-right.svg" alt="The isometric shield version of ContainerSSH logo (right)" height="128" width="128"></center></td>
+<td><center><img src="logo-shield-isometric-red-bottom-left.svg" alt="The isometric shield version of ContainerSSH logo (left)" height="128" width="128"></center></td>
+<td><center><img src="logo-shield-isometric-red-bottom-right.svg" alt="The isometric shield version of ContainerSSH logo (right)" height="128" width="128"></center></td></tr>
+<tr><td><center>[ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-red-left.svg" download>SVG</a> ] [ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-red-left.png" download>PNG</a> ]</center></td>
+<td><center>[ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-red-right.svg" download>SVG</a> ] [ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-red-right.png" download>PNG</a> ]</center></td>
+<td><center>[ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-red-bottom-left.svg" download>SVG</a> ] [ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-red-bottom-left.png" download>PNG</a> ]</center></td>
+<td><center>[ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-red-bottom-right.svg" download>SVG</a> ] [ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-red-bottom-right.png" download>PNG</a> ]</center></td></tr>
+<tr><td><center><img src="logo-shield-isometric-orange-left.svg" alt="The isometric shield version of ContainerSSH logo (left)" height="128" width="128"></center></td></td>
+<td><center><img src="logo-shield-isometric-orange-right.svg" alt="The isometric shield version of ContainerSSH logo (right)" height="128" width="128"></center></td>
+<td><center><img src="logo-shield-isometric-orange-bottom-left.svg" alt="The isometric shield version of ContainerSSH logo (left)" height="128" width="128"></center></td>
+<td><center><img src="logo-shield-isometric-orange-bottom-right.svg" alt="The isometric shield version of ContainerSSH logo (right)" height="128" width="128"></center></td></tr>
+<tr><td><center>[ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-orange-left.svg" download>SVG</a> ] [ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-orange-left.png" download>PNG</a> ]</center></td>
+<td><center>[ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-orange-right.svg" download>SVG</a> ] [ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-orange-right.png" download>PNG</a> ]</center></td>
+<td><center>[ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-orange-bottom-left.svg" download>SVG</a> ] [ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-orange-bottom-left.png" download>PNG</a> ]</center></td>
+<td><center>[ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-orange-bottom-right.svg" download>SVG</a> ] [ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-orange-bottom-right.png" download>PNG</a> ]</center></td></tr>
+<tr><td><center><img src="logo-shield-isometric-green-left.svg" alt="The isometric shield version of ContainerSSH logo (left)" height="128" width="128"></center></td></td>
+<td><center><img src="logo-shield-isometric-green-right.svg" alt="The isometric shield version of ContainerSSH logo (right)" height="128" width="128"></center></td>
+<td><center><img src="logo-shield-isometric-green-bottom-left.svg" alt="The isometric shield version of ContainerSSH logo (left)" height="128" width="128"></center></td>
+<td><center><img src="logo-shield-isometric-green-bottom-right.svg" alt="The isometric shield version of ContainerSSH logo (right)" height="128" width="128"></center></td></tr>
+<tr><td><center>[ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-green-left.svg" download>SVG</a> ] [ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-green-left.png" download>PNG</a> ]</center></td>
+<td><center>[ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-green-right.svg" download>SVG</a> ] [ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-green-right.png" download>PNG</a> ]</center></td>
+<td><center>[ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-green-bottom-left.svg" download>SVG</a> ] [ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-green-bottom-left.png" download>PNG</a> ]</center></td>
+<td><center>[ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-green-bottom-right.svg" download>SVG</a> ] [ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-green-bottom-right.png" download>PNG</a> ]</center></td></tr>
+<tr><td><center><img src="logo-shield-isometric-blue-left.svg" alt="The isometric shield version of ContainerSSH logo (left)" height="128" width="128"></center></td></td>
+<td><center><img src="logo-shield-isometric-blue-right.svg" alt="The isometric shield version of ContainerSSH logo (right)" height="128" width="128"></center></td>
+<td><center><img src="logo-shield-isometric-blue-bottom-left.svg" alt="The isometric shield version of ContainerSSH logo (left)" height="128" width="128"></center></td>
+<td><center><img src="logo-shield-isometric-blue-bottom-right.svg" alt="The isometric shield version of ContainerSSH logo (right)" height="128" width="128"></center></td></tr>
+<tr><td><center>[ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-blue-left.svg" download>SVG</a> ] [ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-blue-left.png" download>PNG</a> ]</center></td>
+<td><center>[ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-blue-right.svg" download>SVG</a> ] [ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-blue-right.png" download>PNG</a> ]</center></td>
+<td><center>[ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-blue-bottom-left.svg" download>SVG</a> ] [ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-blue-bottom-left.png" download>PNG</a> ]</center></td>
+<td><center>[ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-blue-bottom-right.svg" download>SVG</a> ] [ <a href="https://github.com/ContainerSSH/branding/raw/main/logo-shield-isometric-blue-bottom-right.png" download>PNG</a> ]</center></td></tr>
 </table>
 
 ## Wide logos
